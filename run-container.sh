@@ -1,0 +1,1 @@
+podman run --name monster-db -e POSTGRES_DB=monsterdb -e POSTGRES_USER=monster -e POSTGRES_PASSWORD=password -p 5432:5432 postgres:10.5

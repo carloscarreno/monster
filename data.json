@@ -1,0 +1,10 @@
+{
+  "model":"BMW 525",
+  "bodyType":"sedan",
+  "brand":"BMW",
+  "year":"2007",
+  "price":8500.0,
+  "seats":5,
+  "doors":4,
+  "urlImage":""
+}
