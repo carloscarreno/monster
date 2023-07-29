@@ -54,6 +54,8 @@ public class CarResource {
     	return Response.status(Response.Status.BAD_REQUEST).build();
     }
     
+    //TODO: Crear el metodo para actualizar Car
+    
     @DELETE
     @Path("id")
     public Response deleteById(@PathParam("id") Long id){
